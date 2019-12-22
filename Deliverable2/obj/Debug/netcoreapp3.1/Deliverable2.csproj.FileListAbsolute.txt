@@ -1,0 +1,11 @@
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.exe
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.deps.json
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.runtimeconfig.json
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.runtimeconfig.dev.json
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.dll
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.pdb
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.csprojAssemblyReference.cache
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.AssemblyInfoInputs.cache
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.AssemblyInfo.cs
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.dll
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.pdb
